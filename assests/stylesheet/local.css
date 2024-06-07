@@ -1,0 +1,29 @@
+@media screen and (max-width:576px) {
+    .header_top {
+        height: 120px;
+    }
+
+    .header_bottom {
+        height: 100px;
+    }
+}
+
+@media screen and (min-width:577px) {
+    .header_top {
+        height: 170px;
+    }
+    .cart{
+        >h1{
+        font-size: 20px;}
+    }
+
+    .header_bottom {
+        height: 50px;
+    }
+}
+@media screen and (min-width:1400px) {
+    .firstpage{
+        height: 650px;
+        background-position: 50% 1%;
+    }
+}
