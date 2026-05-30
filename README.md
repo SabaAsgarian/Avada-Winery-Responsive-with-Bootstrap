@@ -1,14 +1,6 @@
 # Avada-Winery-Responsive-with-Bootstrap
 Avada-Winery-Responsive-with-Bootstrap
 
-
-
-
-
-
-
-
-
 ![ew](https://github.com/SabaAsgarian/Avada-Winery-Responsive-with-Bootstrap/assets/166124662/ad788197-a188-4a3d-a8d4-308d4c14e424)
 
 
